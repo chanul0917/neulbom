@@ -80,11 +80,16 @@
     - 관리자 메인 페이지에서 최근 등록된 회원, 트레이너, 글 확인 가능
 
 ## **이미지 자료**
-![Untitled (4)](https://user-images.githubusercontent.com/125801596/233522987-04e4083f-0f90-4243-8473-2cb292d7f556.png)
+![image](https://user-images.githubusercontent.com/125801596/233524060-64dcb0eb-0e71-4623-8718-cb047acd6e0a.png)
+
 ![Untitled (5)](https://user-images.githubusercontent.com/125801596/233522990-e04ea2ab-4e4f-4be7-a621-5d18d725e60c.png)
+
 ![Untitled (6)](https://user-images.githubusercontent.com/125801596/233522996-39dec42d-30aa-4af4-b599-ff2329a2f57e.png)
+
 ![Untitled](https://user-images.githubusercontent.com/125801596/233522586-bf8329a8-7f1e-490a-b4ff-aa0f3a087f66.png)
+
 ![Untitled (1)](https://user-images.githubusercontent.com/125801596/233522602-362e5dce-96b7-4ddd-8c04-85b268a2caf5.png)
+
 ![Untitled (2)](https://user-images.githubusercontent.com/125801596/233522611-44716ed0-4f96-4ff3-b983-744c355b0824.png)
 
 
